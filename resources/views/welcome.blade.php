@@ -81,7 +81,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    My Blog
+                <title>HTML Tutorial</title>
+                </div>
+
+                <div>
+                <h1>My Blog</h1>
+                <p>This is a paragraph.</p>
                 </div>
 
                 <div class="links">
